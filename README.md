@@ -9,7 +9,7 @@ print(P[-9:-3])
 print (P[0])
 
 P=[1,2,3,4,5,6,7,8,9,10]
-P.append("pratiksha")
+P.append("tejaswini")
 print(P)
 
 P.remove(9)
